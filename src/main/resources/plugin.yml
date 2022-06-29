@@ -1,0 +1,8 @@
+name: MenuManager
+version: '${project.version}'
+main: me.kelopy.menumanager.MenuManager
+authors: [ Kelopy ]
+commands:
+  suicide:
+    description: kill yourself
+    usage: /<command>
