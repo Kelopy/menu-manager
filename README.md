@@ -1,3 +1,3 @@
 # Menu Manager
 
-Full credits to https://www.youtube.com/c/KodySimpson
+- Menu manager/handler for more productivity and ease of use
